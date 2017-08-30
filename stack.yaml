@@ -1,0 +1,6 @@
+resolver: lts-9.2
+
+packages:
+  - package-imports-example
+  - example-dependency1
+  - example-dependency2
